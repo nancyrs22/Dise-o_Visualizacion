@@ -1,0 +1,31 @@
+create a project
+open an existing project (open recent)
+save the project and all its documents
+reload current project (ask to save)
+undo last action
+redo last cancelled action
+Open in IDE (open with)
+Reload game assemblies and update scripts 
+build the project F6
+build the project and star the game F5
+cancel the current build  Ctrl  F6
+
+Use translation gizmo
+use rotation gizmo
+use scale gizmo
+snap translations to this value
+use world coordinates for transformations
+use locas coordinates for transformations
+use current camera projection coordinates for transformations
+toggle material selection (click a selected asset to select its material)
+show or hide selection mask
+
+create a package
+create a folder
+display the properties of the selected package  in the property grid
+rename de selected folder or package
+delete the selected itmese
+expand all asset folders
+expand all
+collapse all 
+show in explorer
